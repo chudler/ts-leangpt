@@ -1,5 +1,5 @@
 [package]
 name = "ts-leangpt"
 version = "0.1"
-lean_version = "leanprover/lean:4.4.0"
+lean_version = "leanprover-community/lean:3.51.1"
 path = "src"
